@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding = "UTF-8" standalone = "no"?>
+
+<department name="System Information Software Engineering">
+    <semester number ="4">
+        <courses>
+            <course>
+                <course-name>נושאים מתקדמים בתכנות</course-name>
+                <course-number>372.1.2104</course-number>
+                <lecture-times>Tuesday 18:00-20:00</lecture-times>
+                <practice-times>Thursday 10:00-12:00</practice-times>
+                <lecturerss>
+                    <lecturer>
+                        <lecturer-name>דודי</lecturer-name>
+                        <lecturer-lastname>בן שמעון</lecturer-lastname>
+                        <lecturer-email>dudibs@gmail.com</lecturer-email>
+                        <office-hours>Tuesday 20:00-21:00</office-hours>
+                    </lecturer>
+                </lecturerss>
+                <tutors>
+                <tutor>
+                    <instructor-name>גיא</instructor-name>
+                    <lecturer-lastname>שלזינגר</lecturer-lastname>
+                    <lecturer-email>guysc@post.bgu.ac.il</lecturer-email>
+                    <office-hours>Tuesday 20:00-21:00</office-hours>
+                </tutor>
+                <tutor>
+                    <lecturer-name>עידו</lecturer-name>
+                    <lecturer-lastname>סקאזי</lecturer-lastname>
+                    <lecturer-email>sakazi@post.bgu.ac.il</lecturer-email>
+                    <office-hours>Tuesday 20:00-21:00</office-hours>
+                </tutor>
+            </tutors>
+            </course>
+        </courses>
+
+        <courses>
+            <course>
+                <course-name>מימוש מערכות בסיסי נתונים</course-name>
+                <course-number>372.1.2303</course-number>
+                <lecturer>רורבט מושקוביץ'</lecturer>
+                <tutor>גיא שיטרית</tutor>
+                <tutor>א דביר</tutor>
+            </course>
+        </courses>
+
+        <courses>
+            <course>
+                <course-name>מבוא למערכות הפעלה</course-name>
+                <course-number>372.1.1117</course-number>
+                <lecturer>אורן צור</lecturer>
+                <tutor>ויטאלי דיאדיוק</tutor>
+                <tutor>שקד דלריאה</tutor>
+            </course>
+        </courses>
+
+        <courses>
+            <course>
+                <course-name>מודלים חישוביים</course-name>
+                <course-number>372.1.2306</course-number>
+                <lecturer>אריאל פלנר</lecturer>
+                <tutor>דור עצמון</tutor>
+            </course>
+        </courses>
+
+        <courses>
+            <course>
+                <course-name>שיטות נומריות בתעשייה</course-name>
+                <course-number>372.1.2041</course-number>
+                <lecturer>ארמין שמילוביץ'</lecturer>
+                <tutor>אליהו בוירסקי</tutor>
+                <tutor>יעל חכמה</tutor>
+            </course>
+        </courses>
+
+        <courses>
+            <course>
+                <course-name>מבוא לכלכלה לתעשיה וניהול</course-name>
+                <course-number>142.1.3141</course-number>
+                <lecturer>נועה גרשוני</lecturer>
+                <lecturer>מ. חזק</lecturer>
+                <lecturer>מ. גרדשטיין</lecturer>
+                <tutor>א. דדון</tutor>
+                <tutor>ת. שטינהוף</tutor>
+                <tutor>ל. איקן</tutor>
+                <tutor>ד. אברהם</tutor>
+                <tutor>ע. בחבוט</tutor>
+                <tutor>א. נטף</tutor>
+            </course>
+        </courses>
+
+    </semester>
+
+</department>

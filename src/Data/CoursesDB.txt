@@ -1,0 +1,182 @@
+This file contains all courses data from the 4 semster
+
+Department: System Information Software Engineering
+Semester number = 4
+
+Courses:
+
+==================================================
+Course name: נושאים מתקדמים בתכנות
+Course number: 372.1.2104
+Lectures: Tuesday 16:00-18:00
+Lect canceled: No
+Practices:
+Practices: Thursday 9:00 - 10:00 | 10:00 - 11:00 | 12:00 - 13:00 | 14:00 - 15:00 | 15:00 - 16:00
+Prac canceled: No
+
+Lecturers:
+First name: דודי
+Last name: בן שמעון
+Email: dudibs@gmail.com
+Office hours: Tuesday 18:00-20:00
+*
+
+Instructors:
+First name: גיא
+Last name: שלזינגר
+Email: guysc@post.bgu.ac.il
+Office hours: By email
+*
+First name: עידו
+Last name: סקאזי
+Email: sakazi@post.bgu.ac.il
+Office hours: By email
+*
+
+==================================================
+
+Course name: מימוש מערכות בסיסי נתונים
+Course number: 372.1.2303
+Lectures: Tuesday 10:00-13:00, Tuesday 14:00-17:00
+Lect canceled: No
+Practices:
+Practices: Thursday 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 14:00-15:00 | 15:00-16:00
+Prac canceled: No
+
+Lecturers:
+First name: רוברט
+Last name: מושקוביץ'
+Email: robertmo@bgu.ac.il
+Office hours: By email
+*
+
+Instructors:
+First name: אופיר
+Last name: דביר
+Email: ofirdvi@post.bgu.ac.il 
+Office hours: By emaill 
+*
+First name: גיא
+Last name: שיטרית
+Email: shitritg@post.bgu.ac.il
+Office hours: By email
+*
+
+==================================================
+
+Course name: מבוא למערכות הפעלה
+Course number: 372.1.1117
+Lectures: Monday 10:00-13:00, Monday 14:00-17:00
+Lect canceled: No
+Practices:
+Practices: Thursday 9:00-10:00 (live) | 10:00-11:00 | 12:00-13:00 | 13:00-14:00
+Prac canceled: No
+
+Lecturers:
+First name: אורן 
+Last name: צור
+Email: orentsur@bgu.ac.il
+Office hours: By email
+*
+
+Instructors:
+First name: ויטלי 
+Last name: דיאדיוק 
+Email: vitalyd@post.bgu.ac.il
+Office hours: By emaill 
+*
+First name: שקד 
+Last name: דלריאה 
+Email: shakedde@post.bgu.ac.il
+Office hours: By email
+*
+
+==================================================
+
+
+Course name: שיטות נומריות בתעשייה 
+Course number: 372.1.2041
+Lectures: Wednesday 10:00-13:00, Wednesday 14:00-17:00
+Lect canceled: No
+Practices:
+Practices: Thursday 10:00-11:00 | 11:00-12:00 | 14:00 - 15:00 | 15:00 - 16:00
+Prac canceled: No
+
+Lecturers:
+First name: ארמין
+Last name: שמילוביץ
+Email: armin@bgu.ac.il
+Office hours: By email
+*
+
+Instructors:
+First name: אליהו
+Last name: בוירסקי
+Email: boyarske@post.bgu.ac.il
+Office hours: By emaill 
+*
+First name: יעל
+Last name: חכמה
+Email:  yealhoc@post.bgu.ac.il
+Office hours: By emaill 
+*
+
+==================================================
+
+Course name: מודלים חישוביים ואלגוריתמים 
+Course number: 372.1.2306
+Lectures: Monday 10:00-13:00, Monday 14:00-17:00
+Lect canceled: No
+Practices:
+Practices: Thursday 11:00-12:00 | 12:00-13:00 | 13:00 - 14:00 | 14:00 - 15:00 | 14:00 - 15:00
+Prac canceled: No
+
+Lecturers:
+First name: אריאל
+Last name: פלנר
+Email: felner@bgu.ac.il 
+Office hours: By email
+*
+
+Instructors:
+First name: דור
+Last name: עצמון
+Email: dorat@post.bgu.ac.il
+Office hours: By emaill 
+*
+
+==================================================
+
+Course name: מבוא לכלכלה לתעשייה וניהול
+Course number: 142.1.3141
+Lectures: Tuesday 10:10-13:00
+Lect canceled: No
+Practices:
+Practices: Wednesday 10:00-12:00 | 17:00-19:00, Tuesday: 14:00-16:00 | 17:00-19:00
+Prac canceled: No
+
+Lecturers:
+First name: נעמי
+Last name: גרשוני
+Email: naomige@bgu.ac.il
+Office hours: By email
+*
+First name: מארק
+Last name: גרדשטיין
+Email: ?
+Office hours: By email
+*
+
+Instructors:
+First name: עמית
+Last name: בחבוט
+Email: amitbah@post.bgu.ac.il
+Office hours: By emaill 
+*
+First name: אלדר
+Last name: דדון
+Email: eldarda@post.bgu.ac.il
+Office hours: By emaill 
+*
+
+==================================================

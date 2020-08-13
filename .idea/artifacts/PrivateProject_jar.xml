@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrivateProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrivateProject_jar</output-path>
+    <root id="archive" name="PrivateProject.jar">
+      <element id="module-output" name="PrivateProject" />
+    </root>
+  </artifact>
+</component>

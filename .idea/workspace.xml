@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PrivateProject:jar3" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f920ffe8-d1ab-450f-8352-52fbe010d241" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CourseProject$UI.ic" NAME="UI Coverage Results" MODIFIED="1586343457744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CourseProject$FileSearch.ic" NAME="FileSearch Coverage Results" MODIFIED="1585077727221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="XSLT Stylesheet" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1aI9TGyht3xig7MXjnYk0xrWDpD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586351939068" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\edeny\OneDrive\שולחן העבודה\CourseProject" />
+      <recent name="D:\PrivateProject\CourseProject" />
+      <recent name="D:\PrivateProject\CourseProject\src" />
+      <recent name="D:\PrivateProject\CourseProject\src\Data\Lectures" />
+      <recent name="D:\PrivateProject\CourseProject\src\Data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PrivateProject\CourseProject\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UI">
+    <configuration name="AssignmentExecuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data.Exercises.AssignmentExecuter" />
+      <module name="PrivateProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LecturesManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data.Lectures.LecturesManager" />
+      <module name="PrivateProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.Lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data.DataStructures.Main" />
+      <module name="PrivateProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PrivateProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UIWindows.UI" />
+      <module name="PrivateProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UI" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.LecturesManager" />
+        <item itemvalue="Application.AssignmentExecuter" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f920ffe8-d1ab-450f-8352-52fbe010d241" name="Default Changelist" comment="" />
+      <created>1584639808434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584639808434</updated>
+      <workItem from="1584639812821" duration="11730000" />
+      <workItem from="1584697508781" duration="182000" />
+      <workItem from="1584697746830" duration="625000" />
+      <workItem from="1584700160077" duration="9947000" />
+      <workItem from="1584797316313" duration="7768000" />
+      <workItem from="1584910565258" duration="71000" />
+      <workItem from="1584910705393" duration="5858000" />
+      <workItem from="1584998347927" duration="599000" />
+      <workItem from="1585064502877" duration="17045000" />
+      <workItem from="1585133484608" duration="27000" />
+      <workItem from="1585136200400" duration="447000" />
+      <workItem from="1585155372736" duration="4370000" />
+      <workItem from="1585236048406" duration="108000" />
+      <workItem from="1585294409430" duration="11920000" />
+      <workItem from="1585320317331" duration="1126000" />
+      <workItem from="1585376560146" duration="7316000" />
+      <workItem from="1585387807937" duration="3721000" />
+      <workItem from="1585547048265" duration="6640000" />
+      <workItem from="1585591906167" duration="40000" />
+      <workItem from="1585636686901" duration="3791000" />
+      <workItem from="1585650131337" duration="7420000" />
+      <workItem from="1585662951015" duration="11000" />
+      <workItem from="1585680866109" duration="2707000" />
+      <workItem from="1585722213430" duration="577000" />
+      <workItem from="1585722822725" duration="2040000" />
+      <workItem from="1585807200318" duration="570000" />
+      <workItem from="1585826817860" duration="13797000" />
+      <workItem from="1585858087943" duration="2083000" />
+      <workItem from="1585926683381" duration="13000" />
+      <workItem from="1586106126707" duration="4469000" />
+      <workItem from="1586157518604" duration="4949000" />
+      <workItem from="1586165114003" duration="355000" />
+      <workItem from="1586181610129" duration="47000" />
+      <workItem from="1586260634512" duration="3152000" />
+      <workItem from="1586330267749" duration="17261000" />
+      <workItem from="1586412248728" duration="14003000" />
+      <workItem from="1586442827899" duration="11296000" />
+      <workItem from="1586454402806" duration="1705000" />
+      <workItem from="1586459894140" duration="689000" />
+      <workItem from="1586461016761" duration="2031000" />
+      <workItem from="1586500644598" duration="20529000" />
+      <workItem from="1586532292698" duration="929000" />
+      <workItem from="1586535263431" duration="2893000" />
+      <workItem from="1586552478201" duration="1089000" />
+      <workItem from="1586594499538" duration="87000" />
+      <workItem from="1586594715202" duration="3077000" />
+      <workItem from="1586598957240" duration="15000" />
+      <workItem from="1586604677848" duration="266000" />
+      <workItem from="1586716891574" duration="8731000" />
+      <workItem from="1586760420639" duration="2383000" />
+      <workItem from="1586762822690" duration="60000" />
+      <workItem from="1586779200314" duration="1000" />
+      <workItem from="1586793850270" duration="52000" />
+      <workItem from="1586805285399" duration="1734000" />
+      <workItem from="1586847982073" duration="12091000" />
+      <workItem from="1586865939006" duration="34000" />
+      <workItem from="1586876358056" duration="9779000" />
+      <workItem from="1586931623138" duration="21719000" />
+      <workItem from="1586969563927" duration="597000" />
+      <workItem from="1586970584475" duration="314000" />
+      <workItem from="1587114712266" duration="1427000" />
+      <workItem from="1587116835689" duration="23817000" />
+      <workItem from="1587195619920" duration="2083000" />
+      <workItem from="1587197805550" duration="1158000" />
+      <workItem from="1587202093467" duration="840000" />
+      <workItem from="1587202995790" duration="204000" />
+      <workItem from="1587205851384" duration="1959000" />
+      <workItem from="1587215618434" duration="499000" />
+      <workItem from="1587216142303" duration="17000" />
+      <workItem from="1587221121049" duration="91000" />
+      <workItem from="1587221698662" duration="368000" />
+      <workItem from="1587223418065" duration="62000" />
+      <workItem from="1588871933073" duration="55000" />
+      <workItem from="1588922466466" duration="3000" />
+      <workItem from="1589121380285" duration="28000" />
+      <workItem from="1589121439320" duration="25000" />
+      <workItem from="1591721590682" duration="4161000" />
+      <workItem from="1592491120957" duration="1934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/CourseProject" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586418068420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586418068420" />
+    <state x="956" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1587146573657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="956" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587146573657" />
+    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586850794266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1586850794266" />
+    <state x="551" y="307" width="433" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587126020324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="307" width="433" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1587126020324" />
+    <state x="418" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586884583401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1586884583401" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586806302942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586806302942" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589121462849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586876380300" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589121462849" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1587223479086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1587223479086" />
+    <state width="1172" height="186" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587216117859" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1587223479085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1587223479085" />
+    <state width="1172" height="186" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587216117859" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1587223479085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1587223479085" />
+    <state width="1172" height="186" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587216117859" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1587223479086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1587223479086" />
+    <state width="1172" height="186" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587216117859" />
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom" timestamp="1587198963813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586879313243" />
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587198963813" />
+    <state width="1493" height="206" key="GridCell.Tab.1.center" timestamp="1587198963813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586879313243" />
+    <state width="1493" height="206" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587198963813" />
+    <state width="1493" height="206" key="GridCell.Tab.1.left" timestamp="1587198963813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586879313243" />
+    <state width="1493" height="206" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587198963813" />
+    <state width="1493" height="206" key="GridCell.Tab.1.right" timestamp="1587198963813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586879313243" />
+    <state width="1493" height="206" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587198963813" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586850800118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586850800118" />
+    <state width="759" height="500" key="javadoc.popup.new" timestamp="1586416935473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="759" height="500" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1586416935473" />
+    <state x="635" y="279" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1586855501023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="279" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824@0.0.1536.824" timestamp="1586855501023" />
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog" timestamp="1586855830005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586855830005" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587146692679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587146692679" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/SecretariesWindow.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tools/Files/BackupFileHandler.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tools/Files/BackupFileHandler.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/CourseTirgulimWindow.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/CourseLecturesTableWindow.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/CourseLecturesTableWindow.java</url>
+          <line>211</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/ExercisesTableWindow.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/CourseExercisesTableWindow.java</url>
+          <line>406</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/CourseExercisesTableWindow.java</url>
+          <line>427</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/ExerciseUpdatesTable.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Data/DataStructures/UpdatesManager.java</url>
+          <line>219</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UIWindows/ExerciseUpdatesTable.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Data/Exercises/AssignmentExecuter.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
